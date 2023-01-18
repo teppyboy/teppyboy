@@ -5,6 +5,7 @@
 - 📫 How to reach me:
   + Discord: 300305104907665408
   + Matrix: @tretrauit:matrix.org
+  + Other git services...
 
 <!---
 teppyboy/teppyboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
